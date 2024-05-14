@@ -1,7 +1,7 @@
 # City of New Carrollton Data Dashboard
 Group Members: Luke Walsh, Simon Miller, Nikolas Franco Orozco, Kaleb Afework, Ewura Abena Impraim Mensah  
 
-Our data dashboard can be viewed on Tableau Public: https://public.tableau.com/app/profile/new.carrollton/viz/NewCarrolltonDataDashboard/Story2?publish=yes  
+Our data dashboard can be viewed on Tableau Public: https://public.tableau.com/app/profile/new.carrollton/viz/NewCarrolltonDataDashboard/DataDashboard?publish=yes
 
 # Abstract
 The project aims to create a data dashboard for the City of New Carrollton, leveraging databases to provide insights. Improving data accessibility and visualization for stakeholders is the main goal since it facilitates well-informed decision-making.  
